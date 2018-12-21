@@ -8,7 +8,7 @@ Qt库：QSqlite进行数据库操作，QtCharts（Qt5.7版本后加入Qt模块�
 
 ### 运行效果图
 
-![log1]()
+![example](https://github.com/strawdiving/LogDisplay/blob/master/images/log1.PNG)
 
 ### 程序结构
 
